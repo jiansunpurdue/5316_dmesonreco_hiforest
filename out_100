@@ -1,0 +1,136 @@
+25-Apr-2014 09:21:21 CDT  Initiating request to open file file:/uscms_data/d3/jiansun/data/1CC46C43-99B9-E311-B9CF-FA163E4A10E1_highpt_rereco_run181913.root
+25-Apr-2014 09:21:22 CDT  Successfully opened file file:/uscms_data/d3/jiansun/data/1CC46C43-99B9-E311-B9CF-FA163E4A10E1_highpt_rereco_run181913.root
+----------------------------------------------------------------------
+--- HFDumpStuff constructor
+---  verbose:                    0
+---  LumiSummaryLabel:           InputTag:  label = lumiProducer, instance = 
+---  BeamSpotLabel:              InputTag:  label = offlineBeamSpot, instance = 
+---  PrimaryVertexLabel:         InputTag:  label = hiSelectedVertex, instance = 
+---  PrimaryVertexTracksLabel:   InputTag:  label = hiGeneralTracks, instance = 
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--- HFD0 constructor
+---  verbose                     0
+---  tracksLabel                 InputTag:  label = hiGeneralTracks, instance = 
+---  trackQualityString          highPurity
+---  PrimaryVertexLabel          InputTag:  label = hiSelectedVertex, instance = 
+---  BeamSpotLabel               InputTag:  label = offlineBeamSpot, instance = 
+---  trackPt                     1
+---  deltaR                      99
+---  maxDoca                     0.2
+---  maxD0                       2
+---  maxDz                       99
+---  pvWeight:                   0.6
+---  type                        2
+---  D0Window:                 0.2
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+--- HFTree constructor
+---  verbose:                         1
+---  printFrequency:                  1000
+---  treeName:                        T1
+---  requireCand:                     false
+---  fullGenBlock:                    false
+----------------------------------------------------------------------
+Begin processing the 1st record. Run 181913, Event 3925152, LumiSection 99 at 25-Apr-2014 09:21:25.450 CDT
+==>HFTree: analyze() in event #0  run: 181913 event: 3925152
+UID        PID  PPID  C    SZ   RSS PSR STIME TTY      STAT   TIME CMD
+jiansun  31252 30227 31 230326 550148 8 09:19 pts/13   S      0:43 cmsRun d0.py
+event analysis========
+Begin processing the 2nd record. Run 181913, Event 3923864, LumiSection 99 at 25-Apr-2014 09:21:52.741 CDT
+event analysis========
+Begin processing the 3rd record. Run 181913, Event 3923936, LumiSection 99 at 25-Apr-2014 09:22:10.166 CDT
+event analysis========
+Begin processing the 4th record. Run 181913, Event 3925640, LumiSection 99 at 25-Apr-2014 09:22:31.801 CDT
+event analysis========
+Begin processing the 5th record. Run 181913, Event 3923680, LumiSection 99 at 25-Apr-2014 09:22:42.579 CDT
+event analysis========
+Begin processing the 6th record. Run 181913, Event 3926672, LumiSection 99 at 25-Apr-2014 09:23:12.985 CDT
+event analysis========
+Begin processing the 7th record. Run 181913, Event 3925176, LumiSection 99 at 25-Apr-2014 09:23:38.249 CDT
+event analysis========
+Begin processing the 8th record. Run 181913, Event 3925832, LumiSection 99 at 25-Apr-2014 09:24:16.709 CDT
+event analysis========
+Begin processing the 9th record. Run 181913, Event 3923857, LumiSection 99 at 25-Apr-2014 09:26:20.205 CDT
+event analysis========
+Begin processing the 10th record. Run 181913, Event 3923897, LumiSection 99 at 25-Apr-2014 09:26:21.309 CDT
+event analysis========
+Begin processing the 11th record. Run 181913, Event 3922785, LumiSection 99 at 25-Apr-2014 09:26:44.368 CDT
+event analysis========
+Begin processing the 12th record. Run 181913, Event 3923265, LumiSection 99 at 25-Apr-2014 09:26:59.611 CDT
+event analysis========
+Begin processing the 13th record. Run 181913, Event 3924673, LumiSection 99 at 25-Apr-2014 09:27:12.600 CDT
+event analysis========
+Begin processing the 14th record. Run 181913, Event 3924649, LumiSection 99 at 25-Apr-2014 09:27:36.866 CDT
+event analysis========
+Begin processing the 15th record. Run 181913, Event 3926497, LumiSection 99 at 25-Apr-2014 09:28:18.349 CDT
+event analysis========
+Begin processing the 16th record. Run 181913, Event 3923007, LumiSection 99 at 25-Apr-2014 09:28:50.257 CDT
+event analysis========
+Begin processing the 17th record. Run 181913, Event 3923631, LumiSection 99 at 25-Apr-2014 09:29:10.944 CDT
+event analysis========
+Begin processing the 18th record. Run 181913, Event 3924039, LumiSection 99 at 25-Apr-2014 09:29:19.066 CDT
+event analysis========
+Begin processing the 19th record. Run 181913, Event 3925023, LumiSection 99 at 25-Apr-2014 09:29:35.419 CDT
+event analysis========
+Begin processing the 20th record. Run 181913, Event 3922959, LumiSection 99 at 25-Apr-2014 09:29:49.615 CDT
+event analysis========
+Begin processing the 21st record. Run 181913, Event 3922759, LumiSection 99 at 25-Apr-2014 09:30:20.634 CDT
+event analysis========
+Begin processing the 22nd record. Run 181913, Event 3924107, LumiSection 99 at 25-Apr-2014 09:31:22.060 CDT
+event analysis========
+Begin processing the 23rd record. Run 181913, Event 3925651, LumiSection 99 at 25-Apr-2014 09:31:23.475 CDT
+event analysis========
+Begin processing the 24th record. Run 181913, Event 3923595, LumiSection 99 at 25-Apr-2014 09:31:26.117 CDT
+event analysis========
+Begin processing the 25th record. Run 181913, Event 3924083, LumiSection 99 at 25-Apr-2014 09:31:41.708 CDT
+event analysis========
+Begin processing the 26th record. Run 181913, Event 3924491, LumiSection 99 at 25-Apr-2014 09:31:50.331 CDT
+event analysis========
+Begin processing the 27th record. Run 181913, Event 3924843, LumiSection 99 at 25-Apr-2014 09:32:01.604 CDT
+event analysis========
+Begin processing the 28th record. Run 181913, Event 3923051, LumiSection 99 at 25-Apr-2014 09:32:17.671 CDT
+event analysis========
+Begin processing the 29th record. Run 181913, Event 3926459, LumiSection 99 at 25-Apr-2014 09:32:43.723 CDT
+event analysis========
+Begin processing the 30th record. Run 181913, Event 3924971, LumiSection 99 at 25-Apr-2014 09:33:05.690 CDT
+event analysis========
+Begin processing the 31st record. Run 181913, Event 3924323, LumiSection 99 at 25-Apr-2014 09:33:31.884 CDT
+event analysis========
+Begin processing the 32nd record. Run 181913, Event 3923315, LumiSection 99 at 25-Apr-2014 09:33:56.042 CDT
+event analysis========
+Begin processing the 33rd record. Run 181913, Event 3923951, LumiSection 99 at 25-Apr-2014 09:34:54.781 CDT
+event analysis========
+Begin processing the 34th record. Run 181913, Event 3924207, LumiSection 99 at 25-Apr-2014 09:34:54.854 CDT
+event analysis========
+Begin processing the 35th record. Run 181913, Event 3922727, LumiSection 99 at 25-Apr-2014 09:35:12.710 CDT
+event analysis========
+Begin processing the 36th record. Run 181913, Event 3925663, LumiSection 99 at 25-Apr-2014 09:35:47.916 CDT
+event analysis========
+Begin processing the 37th record. Run 181913, Event 3925199, LumiSection 99 at 25-Apr-2014 09:36:18.140 CDT
+event analysis========
+Begin processing the 38th record. Run 181913, Event 3924967, LumiSection 99 at 25-Apr-2014 09:36:55.577 CDT
+event analysis========
+Begin processing the 39th record. Run 181913, Event 3923871, LumiSection 99 at 25-Apr-2014 09:37:25.946 CDT
+event analysis========
+Begin processing the 40th record. Run 181913, Event 3925391, LumiSection 99 at 25-Apr-2014 09:38:03.723 CDT
+event analysis========
+Begin processing the 41st record. Run 181913, Event 3923175, LumiSection 99 at 25-Apr-2014 09:38:37.901 CDT
+event analysis========
+Begin processing the 42nd record. Run 181913, Event 3922327, LumiSection 99 at 25-Apr-2014 09:39:21.431 CDT
+event analysis========
+Begin processing the 43rd record. Run 181913, Event 3926287, LumiSection 99 at 25-Apr-2014 09:41:02.474 CDT
+event analysis========
+Begin processing the 44th record. Run 181913, Event 3925106, LumiSection 99 at 25-Apr-2014 09:42:35.025 CDT
+event analysis========
+Begin processing the 45th record. Run 181913, Event 3922850, LumiSection 99 at 25-Apr-2014 09:42:37.776 CDT
+event analysis========
+Begin processing the 46th record. Run 181913, Event 3923226, LumiSection 99 at 25-Apr-2014 09:42:52.435 CDT
+event analysis========
+Begin processing the 47th record. Run 181913, Event 3925026, LumiSection 99 at 25-Apr-2014 09:42:59.629 CDT
+event analysis========
+Begin processing the 48th record. Run 181913, Event 3923946, LumiSection 99 at 25-Apr-2014 09:43:24.243 CDT
+event analysis========
+Begin processing the 49th record. Run 181913, Event 3926354, LumiSection 99 at 25-Apr-2014 09:43:55.907 CDT
+event analysis========
+Begin processing the 50th record. Run 181913, Event 3925474, LumiSection 99 at 25-Apr-2014 09:44:23.979 CDT
